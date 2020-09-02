@@ -7,8 +7,6 @@ function App() {
   return (
     // BEM naming conversation
     <div className='app'>
-      <h1>Lets build the facebook clone!</h1>
-
       <Header />
 
       {/* App body */}
